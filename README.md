@@ -5,3 +5,6 @@ Streamlining the steps from meal planning to grocery shopping for Food Service C
 ...
 ## Visualization
 ...
+## For Development
+planned deployment on render: https://dashboard.render.com/
+rough design on figma: https://www.figma.com/make/iRTbmqSX32c9NXCDrHmghw/Meal-Planning-Web-Page?t=1KC7WaX9oERay0Iv-0
