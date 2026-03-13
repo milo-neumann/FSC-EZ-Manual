@@ -8,4 +8,4 @@ Streamlining the steps from meal planning to grocery shopping for Food Service C
 ## For Development
 planned deployment on render: https://dashboard.render.com/  
 rough design on figma: https://www.figma.com/make/iRTbmqSX32c9NXCDrHmghw/Meal-Planning-Web-Page?t=1KC7WaX9oERay0Iv-0  
-example manual (2018): https://www.sierraserviceproject.org/wp-content/uploads/2018/05/2018-FSC-Manual.pdf  
+example manual (2025): https://docs.google.com/document/d/1GT5hL5pFkcsMcU8T1uu4aeE1FqSZ1iBEimnGvBbJ96I/edit?usp=sharing
